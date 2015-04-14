@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\uk.me.lewisdeane.ldialogs\ldialog\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d2059bb04f80e7f096eb96df03c546604971f7fd">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-cf3b053d7ebf80bf8a464a8adfccbdda8244ec64.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee9ae2b87d57a33a7381c75d54db12bdf2995656">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-1ca4dbff9719684930b3de674e16d78fd21dd9d1.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.mikepenz.iconics\library\0.9.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92f3dbfd73dbb491d4fef02679c9b60ef6c29f76">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-79ea18d2af34ee9e137959ffd421131752f0c07c.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-4d5c7d018b5650c819e3d43e44796308317e2342.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\it.neokree\MaterialNavigationDrawer\1.2.9\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9839bd52425a6ae600be2c511d5bae3dc8aeb2f9">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-176a1b06b7f1f84b5c143a076eb3cc7f0af786a7.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-440b070bc1780529df24c3219586e3f1d5925145.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdelaziz\.gradle\caches\modules-2\files-2.1\uk.co.chrisjenx\calligraphy\1.2.0\291c60026ceeda3d4da8daac28b0517e4dc3d159\calligraphy-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="291c60026ceeda3d4da8daac28b0517e4dc3d159">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\calligraphy-1.2.0-3770b9b5af3daac2ada3d77572e5ceec11644f38.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdelaziz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-02e76c793f625bbdbe0e71af4b333fe1ed77cfdf.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="589dd4bab6aa1fa071848f370aa117755256d0e9">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-a1698271b69a43e3744bc611242f160d2f0f4e63.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdelaziz\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-mapper-asl\1.9.13\1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7\jackson-mapper-asl-1.9.13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\jackson-mapper-asl-1.9.13-4cc3e24a562088806debc14cf8800463b08a027f.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\1.8.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="26424233c1eec3a61981ac77e77d0ca3a8c118fa">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-0b0c43724acd18ed8fed6593f539223c95a55aa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdelaziz\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\library-2.4.0-6c188cbb59fd842c06183c04796df30428695483.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-ecda8c010b70a90a35b89842ff5ef06d8eec6ce7.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-b4dabf7ca3e8a98fda477aac1d59b7acfbe12ec1.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.afollestad\material-dialogs\0.6.3.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c3de28e512c75c4475418a36afc011a75b992d">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-e256007f4a968759ffb1bc5e3f72a4c4cc7f7af4.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\de.keyboardsurfer.android.widget\crouton\1.8.5\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b81c788c5f175f94ddaac2f65e5d1726371e0963">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-74edafd56b324ee18958a0583ad3b55c95951b0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\abdelaziz\.gradle\caches\modules-2\files-2.1\org.codehaus.jackson\jackson-core-asl\1.9.13\3c304d70f42f832e0a86d45bd437f692129299a4\jackson-core-asl-1.9.13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c304d70f42f832e0a86d45bd437f692129299a4">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\jackson-core-asl-1.9.13-538e455d21564403907dd1842f1ad2d00a3182db.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.mikepenz.materialdrawer\library\2.7.6\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6bc2f114ca5722dceafaa99abc4d2b72b8679269">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-0d1d4be8ae2c8ebaf46c2bdffb51804a298b515c.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-1631860e011437d585be22dd17b77b61565f57c9.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.github.manuelpeinado.fadingactionbar\fadingactionbar\3.1.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1db28e119b406a5fe367b63fb1be083d5dfe298a">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-af004641b401c2e1b772b82109ec823970718ec8.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.github.markushi\android-ui\1.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-901f6ae1d2b33a8745fd6755548edcc59de52995.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.github.manuelpeinado.fadingactionbar\fadingactionbar-abc\3.1.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ada4f8fc2f9cf0fb3c66fbe36d86f5c370684ef7">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-155438a8fac1549f87806512b9e92d1aa9ff53fa.jar" />
+    </item>
+    <item
+        jar="E:\STA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="E:\STA\app\build\intermediates\pre-dexed\debug\classes-7b2a28ce39286b8a9b4f4f7386c0946194fbe2a1.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This is the fragment  to be displayed for a section associated with a tab -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:wheel="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/heartimg"
+
+        android:layout_marginTop="64dp"
+        android:src="@drawable/heart"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="80"
+        android:layout_marginTop="138dp"
+        android:id="@+id/hearttxt"
+        android:textColor="#e74c3c"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="160dp"/>
+
+    <ImageView
+        android:layout_width="110dp"
+        android:layout_height="110dp"
+        android:id="@+id/presi"
+        android:src="@drawable/beat"
+        android:layout_marginStart="20dp"
+        android:layout_below="@+id/tt3"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/temp"
+        android:src="@drawable/tp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="80"
+        android:id="@+id/bptxt"
+        android:textColor="#e74c3c"
+        android:textStyle="bold"
+
+        android:layout_alignBottom="@+id/presi"
+        android:layout_toStartOf="@+id/temp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="80"
+        android:id="@+id/temptxt"
+        android:textColor="#42c0fb"
+        android:textStyle="bold"
+
+        android:layout_below="@+id/temp"
+        android:layout_alignStart="@+id/hearttxt" />
+
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:id="@+id/bs"
+        android:src="@drawable/bl2"
+        android:layout_below="@+id/textView4"
+        android:layout_alignStart="@+id/textView4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="80"
+        android:id="@+id/bstxt"
+        android:textColor="#e74c3c"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/bptxt"
+        android:layout_alignEnd="@+id/bs" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Heart rate"
+        android:layout_marginTop="27dp"
+        android:id="@+id/tt"
+        android:textColor="#000000"
+        android:layout_marginLeft="160dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Temperature"
+        android:id="@+id/tt1"
+        android:textColor="#000000"
+        android:layout_marginLeft="160dp"
+        android:layout_above="@+id/temp"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Blood pressure"
+        android:id="@+id/tt3"
+        android:textColor="#000000"
+
+        android:layout_alignTop="@+id/textView4"
+        android:layout_alignStart="@+id/presi" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Blood sugar"
+        android:id="@+id/textView4"
+        android:textColor="#000000"
+        android:layout_marginTop="21dp"
+        android:layout_below="@+id/temptxt"
+        android:layout_toEndOf="@+id/tt" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Live"
+        android:id="@+id/textView"
+        android:textColor="@color/green"
+        android:layout_alignTop="@+id/tt"
+        android:layout_alignEnd="@+id/textView4" />
+
+    <ImageView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:id="@+id/live"
+        android:src="@drawable/greens"
+        android:layout_alignTop="@+id/textView"
+        android:layout_toEndOf="@+id/bs" />
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ldialog-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/uk.me.lewisdeane.ldialogs/ldialog/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/uk.me.lewisdeane.ldialogs/ldialog/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
